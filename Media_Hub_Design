@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T01:24:40.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="14.8.6" etag="SxSCcbJI313nkdppt-f3" type="github"><diagram id="A3qR4KronzOvaaGsVWZF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-08T01:42:07.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="95E57-miYBu5fTVPYYai" version="14.8.6" type="github">
+  <diagram id="A3qR4KronzOvaaGsVWZF" name="Page-1">
+    <mxGraphModel dx="946" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DgaK9Gu7Yx0lIMYVqHz_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DgaK9Gu7Yx0lIMYVqHz_-4" target="DgaK9Gu7Yx0lIMYVqHz_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgaK9Gu7Yx0lIMYVqHz_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DgaK9Gu7Yx0lIMYVqHz_-2" target="DgaK9Gu7Yx0lIMYVqHz_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgaK9Gu7Yx0lIMYVqHz_-2" value="Optum Recording Router&lt;br&gt;&lt;b&gt;OCCAS&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DgaK9Gu7Yx0lIMYVqHz_-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="210" y="290" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DgaK9Gu7Yx0lIMYVqHz_-5" value="Call Recording Systems" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="DgaK9Gu7Yx0lIMYVqHz_-10">
+          <mxGeometry width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DgaK9Gu7Yx0lIMYVqHz_-6" value="&lt;b&gt;NICE&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="DgaK9Gu7Yx0lIMYVqHz_-10">
+          <mxGeometry x="10" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DgaK9Gu7Yx0lIMYVqHz_-7" value="&lt;b&gt;Qfiniti&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="DgaK9Gu7Yx0lIMYVqHz_-10">
+          <mxGeometry x="110" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DgaK9Gu7Yx0lIMYVqHz_-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="210" y="40" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DgaK9Gu7Yx0lIMYVqHz_-4" value="Call Recording Sources" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="DgaK9Gu7Yx0lIMYVqHz_-11">
+          <mxGeometry width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DgaK9Gu7Yx0lIMYVqHz_-1" value="&lt;b&gt;SIPREC&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="DgaK9Gu7Yx0lIMYVqHz_-11">
+          <mxGeometry x="10" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DgaK9Gu7Yx0lIMYVqHz_-3" value="&lt;b&gt;Genesys&lt;br&gt;Active Recording&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="DgaK9Gu7Yx0lIMYVqHz_-11">
+          <mxGeometry x="110" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
